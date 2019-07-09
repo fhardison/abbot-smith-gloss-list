@@ -1,4 +1,4 @@
-# abbot-smith-gloss-list
+# abbott-smith-gloss-list
 A tab separated gloss list of the Abbott-Smith NT Greek Lexicon 
 
 # Source and license info
